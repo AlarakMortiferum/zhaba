@@ -1,2 +1,3 @@
 Чавк (англ. Bait) — хамележаба и питомец Эзрана, по виду напоминает смесь ящера и лягушки. Имеет сварливый характер и понимает человеческую речь. Умеет менять цвет и, в случае опасности, настолько ярко светиться, что может ослепить кого угодно на короткое время.
-https://static.wikia.nocookie.net/dragonprince/images/3/34/%D0%A3%D0%B3%D1%80%D1%8E%D0%BC%D1%8B%D0%B9_%D0%91%D1%8D%D0%B9%D1%82.jpg/revision/latest?cb=20190423142124&path-prefix=ru
+![image](https://github.com/user-attachments/assets/9f6c13fd-b07b-4087-86bf-596c4bbbb844)
+
